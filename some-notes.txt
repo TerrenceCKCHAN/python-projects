@@ -1,0 +1,3 @@
+Everything is an object
+numbers, booleans, string => class 'type'
+function => class 'builtin_function_or_method
